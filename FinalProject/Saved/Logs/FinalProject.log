@@ -800,3 +800,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.09-16.18.09:743][432]LogSlate: Window 'MainGameMode' being destroyed
 [2021.09.09-16.22.18:875][906]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
 [2021.09.09-16.22.18:875][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.09-16.23.07:706][872]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/PlayerHUD.PlayerHUD
